@@ -1,0 +1,19 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_EE8D2AB0_E229_D7BC_41EC_38DBFAD27F34.label = IMG_20230114_110854_00_104
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 3
